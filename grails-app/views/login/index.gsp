@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Green Umbrella Software :: Home</title>
+    <title>Green Umbrella Software</title>
     <r:use module="application"/>
 </head>
 
@@ -34,26 +34,26 @@
             <div class="col-lg-3">
                 <div class="system-arch icon" title="Systems Architecture"></div>
                 <h3>Systems Architecture</h3>
-                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+                <p>Systems architecture has become an aspect of product development that customers expect to be baked in to all new products, with the adoption of cloud technologies.  Green Umbrella Software has all the tools and talent required to ensure sound systems architecture.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
             <div class="col-lg-3">
                 <div class="cyber-sec icon" title="Cyber Security"></div>
                 <h3>Cyber Security</h3>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <p>In the age where cyber attacks are growing in number and becoming more severe, Green Umbrella Software can provide expertise to help secure your assets.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
             <div class="col-lg-3">
                 <div class="careers icon"></div>
                 <h3>Careers</h3>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <p>Are you interested in joining a company that is as interested in enhancing your professional skills as you are?  Then you need to continue to our Careers page and examine our current openings.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
         </div>
 
         <footer>
             <p class="pull-right"><a href="#">Back to top</a></p>
-            <p>&copy; 2014 Green Umbrella Software, LLC. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+            <p>&copy; 2014 Green Umbrella Software, LLC.</p>
         </footer>
 
     </div>
