@@ -59,8 +59,6 @@
 
                             </ul>
                         </li>
-                        <li><a href="#">Certifications</a></li>
-                        <li><a href="#">News</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#about">About Us</a></li>
