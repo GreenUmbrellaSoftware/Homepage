@@ -16,7 +16,7 @@
                 <img alt="Second slide" src="${resource(dir: 'images', file: '4344151893_9ab0b5e4e0_o.jpg')}" style="top:-201%">
             </div>
             <div class="item">
-                <img alt="Third slide" src="${resource(dir: 'images', file: '7537241496_95be3c968d_o.jpg')}" style="top:-149%">
+                <img alt="Third slide" src="${resource(dir: 'images', file: '7537241496_95be3c968d_o.jpg')}" style="top:-133%">
             </div>
         </div>
         <a data-slide="prev" role="button" href="#myCarousel" class="left carousel-control"><span class="glyphicon glyphicon-chevron-left"></span></a>
@@ -26,26 +26,26 @@
     <div class="container marketing">
         <div class="row">
             <div class="col-lg-3">
-                <img style="width: 140px; height: 140px;" alt="Generic placeholder image" src="${resource(dir: 'images', file: 'softwareeng.jpg')}" class="img-circle">
-                <h2>Software Engineering</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+                <div class="software-eng icon" title="Software Engineering"></div>
+                <h3>Software Engineering</h3>
+                <p>Green Umbrella Software provides expertise in software engineering and high-end technology project management that is complimented by in-depth knowledge of our client's mission requirements.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
             <div class="col-lg-3">
-                <img style="width: 140px; height: 140px;" alt="Generic placeholder image" src="${resource(dir: 'images', file: 'systemarch.jpg')}" class="img-circle">
-                <h2>Systems Architecture</h2>
+                <div class="system-arch icon" title="Systems Architecture"></div>
+                <h3>Systems Architecture</h3>
                 <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
             <div class="col-lg-3">
-                <img style="width: 140px; height: 140px;" alt="Generic placeholder image" src="${resource(dir: 'images', file: 'cybersecurity.jpg')}" class="img-circle">
-                <h2>Cyber Security</h2>
+                <div class="cyber-sec icon" title="Cyber Security"></div>
+                <h3>Cyber Security</h3>
                 <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>
             <div class="col-lg-3">
-                <img style="width: 140px; height: 140px;" alt="Generic placeholder image" src="${resource(dir: 'images', file: 'careers.png')}" class="img-circle">
-                <h2>Careers</h2>
+                <div class="careers icon"></div>
+                <h3>Careers</h3>
                 <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
                 <p><a role="button" href="#" class="btn btn-default">View details »</a></p>
             </div>

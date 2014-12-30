@@ -27,25 +27,44 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="#" class="navbar-brand">Green Umbrella Software</a>
+                    <a href="#" class="navbar-brand"><img src="${resource(dir: 'images', file: 'logo.png')}"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#contact">Contact</a></li>
                         <li class="dropdown">
-                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">Dropdown <span class="caret"></span></a>
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li class="divider"></li>
-                                <li class="dropdown-header">Nav header</li>
-                                <li><a href="#">Separated link</a></li>
-                                <li><a href="#">One more separated link</a></li>
+                                <li><a href="#">Software Engineering</a></li>
+                                <li><a href="#">Systems Architecture</a></li>
+                                <li><a href="#">Cyber Security</a></li>
+
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">Contracts<span class="caret"></span></a>
+                            <ul role="menu" class="dropdown-menu">
+                                <li><a href="#">AFMS CATS</a></li>
+                                <li><a href="#">SeaPort-e</a></li>
+                                <li><a href="#">Other</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">Careers<span class="caret"></span></a>
+                            <ul role="menu" class="dropdown-menu">
+                                <li><a href="#">Openings</a></li>
+                                <li><a href="#">Benefits</a></li>
+                                <li><a href="#">College Students</a></li>
+                                <li><a href="#">Professionals</a></li>
+
+                            </ul>
+                        </li>
+                        <li><a href="#">Certifications</a></li>
+                        <li><a href="#">News</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>

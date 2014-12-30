@@ -1,8 +1,7 @@
-
 body {
     color: #5A5A5A;
     padding-bottom: 40px;
-    background-color:#B0F2A6 !important;
+    background-color:#EEEEEE !important;
 }
 .navbar-wrapper {
     left: 0;
@@ -26,9 +25,13 @@ body .navbar-inverse {
     background-color: #159117;
     border-color: #047604;
 }
-body .navbar-inverse .navbar-nav > .active > a,
-body .navbar-inverse .navbar-nav > .active > a:hover,
-body .navbar-inverse .navbar-nav > .active > a:focus {
+body a {
+    color:#159117;
+}
+body a:hover, body a:focus{color:#2EAB2E;}
+body .navbar-inverse .navbar-nav > .open > a,
+body .navbar-inverse .navbar-nav > .open > a:hover,
+body .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #2EAB2E;
     color: #FFFFFF;
 }
@@ -43,6 +46,9 @@ body .navbar-inverse .navbar-nav > li > a {
 }
 body .navbar-inverse .navbar-brand {
     color:#FFFFFF;
+}
+body .navbar-brand img {
+    margin-top:-15px;
 }
 .carousel {
     height: 300px;
@@ -83,32 +89,63 @@ body .carousel-control {
     top: 40%;
     width: 40px;
     left:15px;
-    xdisplay:none;
-    -webkit-opacity: 0;
-    -moz-opacity: 0;
-    opacity: 0;
+    display:none;
 }
 body .carousel:hover .carousel-control {
     display:block;
     opacity:0.5;
-    -webkit-transition: all 0s ease 3s;
-    -moz-transition: all 0s ease 3s;
-    -ms-transition: all 0s ease 3s;
-    -o-transition: all 0s ease 3s;
-    transition: all 0s ease 3s;
 }
 body .marketing .row {
     margin-bottom:35px;
 }
-body .carousel-control:hover {
+body .marketing .row > div {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: transparent #ddd transparent transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 2px;
+}
+body .marketing .row > div:last-child {
+    border-right: 2px solid transparent;
+}
+body .marketing .row > div > p {
+    text-align:justify;
+}
+body .carousel .carousel-control:hover {
     opacity:1.0;
 }
 .marketing .col-lg-4 {
     margin-bottom: 20px;
     text-align: center;
 }
-.marketing h2 {
-    font-weight: normal;
+.marketing .icon {
+    width:160px;
+    height:160px;
+    border-radius:50%;
+    margin:0 auto;
+    border:4px solid #aaaaaa;
+    background:url("../images/softwareeng.png") no-repeat scroll -4px -4px #EEEEEE;
+}
+.marketing .icon.software-eng {
+    background-image:url("../images/softwareeng.png");
+}
+.marketing .icon.system-arch {
+    background-image:url("../images/sysarch.png");
+}
+.marketing .icon.cyber-sec {
+    background-image:url("../images/cyber.png");
+}
+.marketing .icon.careers {
+    background-image:url("../images/careers.png");
+}
+.marketing h3 {
+    font-weight: bold;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:17px;
 }
 .marketing .col-lg-4 p {
     margin-left: 10px;
