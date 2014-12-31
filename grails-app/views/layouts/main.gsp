@@ -52,7 +52,7 @@
                         <li class="dropdown">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">Careers<span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
-                                <li><a href="#">Openings</a></li>
+                                <li><a href="openings">Openings</a></li>
                                 <li><a href="#">Benefits</a></li>
                                 <li><a href="#">College Students</a></li>
                                 <li><a href="#">Professionals</a></li>
