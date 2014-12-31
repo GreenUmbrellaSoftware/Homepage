@@ -89,6 +89,18 @@
 </div>
 
 <div>Responsible for the planning and engineering of an organization's systems infrastructure. Includes the implementation and design of hardware and software. Monitors the performance of systems. Typically requires a bachelor's degree in area of speciality and at least 5 years of experience in the field or in a related area. Demonstrates expertise in a variety of the field's concepts, practices, and procedures. Relies on extensive experience and judgement to plan and accomplish goals. Performs a variety of tasks. May provide consultation on complex projects and is considered to be the top level contributor/specialist. A wide degree of creativity and latitude is expected. Typically reports to a manager or head of a unit/department.</div>
+
+<div>
+    <strong>Database Development Engineer</strong>
+</div>
+
+<div>Designs, develops and maintains database schemas and scripts.  This role will potentially be dedicated across several teams to support various software applications.  Knowledge of relational data stores and non-relational data stores is desired.  Typically requires a bachelor's degree in computer science or similar discipline with several years of experience.</div>
+
+<div>
+    <strong>Systems Integrator</strong>
+</div>
+
+<div>Responsible for integrating GOTS, COTS and custom software to form a cohesive application.  This role requires knowledge of various operating systems, such as Linux and Windows, knowledge of scriptiong languages, such as Perl or Bash, and a desire to accept challenging problem sets.  Automation and documentation of integration points is also a requirement to ensure fidelity and maintainability for our customers.  Flexibility is available for experience and education depending on the candidate.</div>
 </div>
 </body>
 </html>
